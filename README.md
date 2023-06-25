@@ -1,20 +1,30 @@
-### Hi there 👋
+# Hello World !!! I am [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
 
-<!--
-**HumbleFool830/HumbleFool830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Speaker | Passionate Programmer | Contributor to society
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing web applications with Spring boot and java development , data structures.
+- 🌱 I’m currently learning Api's, system design.
+- 💬 Ask me about Developing web applications with springboot, java development, Blogging
+- 📫 How to reach me: [https://www.linkedin.com/in/sunil-kumar-katta-61247b241/][Linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with me:
+
+## 👨‍💻 Languages and Tools
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+
+## :movie_camera: Courses  
+
+
+| -------------- | -------------|
+
+| <a href="https://github.com/HumbleFool830/HumbleFool830"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HumbleFool830&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Humblefool github stats" /></a> | <a href="https://github.com/HumbleFool830/HumbleFool830"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbleFool830&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=HumbleFool&label=Profile%20views&color=0e75b6&style=flat" />
+[linkedin]: https://www.linkedin.com/in/sunil-kumar-katta-61247b241/
+
