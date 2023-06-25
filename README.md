@@ -1,4 +1,4 @@
-# Hello World !!! I am [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+# Hello World !!! I am Sunil Kumar Katta 👋 
 
 ### Speaker | Passionate Programmer | Contributor to society
 
@@ -19,7 +19,6 @@
 ## :movie_camera: Courses  
 
 
-| -------------- | -------------|
 
 | <a href="https://github.com/HumbleFool830/HumbleFool830"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HumbleFool830&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Humblefool github stats" /></a> | <a href="https://github.com/HumbleFool830/HumbleFool830"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbleFool830&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
