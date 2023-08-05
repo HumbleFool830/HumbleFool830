@@ -11,11 +11,11 @@
 <h3 align="left"> 🤝 Connect with me: </h3>
 
 <p align="left">
-<a href="https://twitter.com/sunilkumArKatt5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sunil kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/katta-sunil-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/sunil.codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunil.codes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@humblefools/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Humblefools" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/HumbleFool22" target="blank" >leetcode- @HumbleFool22</a>
+<a href="https://twitter.com/sunilkumArKatt5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sunil kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/katta-sunil-kumar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/sunil.codes/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunil.codes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@humblefools/featured" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Humblefools" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/HumbleFool22" target="_blank" > leetcode- @HumbleFool22</a>
 </p>
 
 ## 👨‍💻 Languages and Tools
