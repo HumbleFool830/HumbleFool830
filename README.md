@@ -23,6 +23,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<a href="https://humblefools.substack.com/p/basics-of-two-pointers-technique" target="_blank" >Article on Two pointers</a>
 
 
 ## :movie_camera: Courses  
