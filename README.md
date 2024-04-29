@@ -4,7 +4,7 @@
 ### Building @StoryLinkApp | Passionate Programmer | Contributor to society
 
 - 🔭 I’m currently working on developing web applications with Spring boot and java development,data structures.
-- 🌱 I’m currently learning Api's, system design.
+- 🌱 I’m currently learning API Integration and Design Patterns
 - 💬 Ask me about Developing web applications with springboot, java development, blogging or Any tech related stuff.
 - 📫 How to reach me: sunilkatta830@gmail.com , [Instagram - @Sunil.codes](https://www.instagram.com/sunil.codes/) 
 
@@ -24,6 +24,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://humblefools.substack.com/p/basics-of-two-pointers-technique" target="_blank" >Article on Two pointers</a>
+- <a href = "https://techtribes.hashnode.dev/?source=top_nav_blog_home" target = "_blank"> **Tech Tribes Hub** </a>
 
 
 ## :movie_camera: Courses  
